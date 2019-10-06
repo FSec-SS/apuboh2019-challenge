@@ -1,0 +1,3 @@
+3 old men gave you this ciphertext. They told you to "Say 'friend' and enter". You will soon realize, old encryption standards are really not up to scratch these days...
+
+MD5: 126d793ad1ea41b9aaf9e0f21d30e74d
